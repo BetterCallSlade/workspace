@@ -1,7 +1,12 @@
 [
   "file-explorer",
   "global-search",
+  "tag-pane",
   "page-preview",
   "note-composer",
+  "starred",
+  "zk-prefixer",
+  "random-note",
+  "outline",
   "word-count"
 ]
