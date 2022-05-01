@@ -1,5 +1,9 @@
 {
   "readableLineLength": false,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "lineWrap": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "附件"
 }
